@@ -1,0 +1,93 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+ABB,1,Defensive / Steady Compounders,1.4269808715299088
+ADANIENSOL,0,Emerging Growth,1.2917503436740037
+ADANIENT,1,Defensive / Steady Compounders,1.9268433746601892
+ADANIGREEN,3,Value Cyclicals,2.5854806397283627
+ADANIPORTS,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),1.6266321172135618
+ADANIPOWER,4,High-Quality Compounders,1.3846881823062815
+AMBUJACEM,1,Defensive / Steady Compounders,0.6559177558185983
+APOLLOHOSP,1,Defensive / Steady Compounders,0.9369492540902441
+ASIANPAINT,1,Defensive / Steady Compounders,1.0083018900152703
+ATGL,0,Emerging Growth,1.3076449382772417
+AXISBANK,3,Value Cyclicals,0.9416879807628022
+BAJAJ-AUTO,1,Defensive / Steady Compounders,0.7252835063782738
+BAJAJFINSV,3,Value Cyclicals,1.4480166195177557
+BAJAJHLDNG,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),2.529524997010745
+BAJFINANCE,0,Emerging Growth,1.2577964317691552
+BANKBARODA,3,Value Cyclicals,1.580429609702576
+BEL,1,Defensive / Steady Compounders,1.0968380701558984
+BHARTIARTL,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),1.3189145772500819
+BHEL,1,Defensive / Steady Compounders,2.3744331083816768
+BOSCHLTD,1,Defensive / Steady Compounders,1.2354765346315424
+BPCL,1,Defensive / Steady Compounders,1.2145886622529973
+BRITANNIA,4,High-Quality Compounders,2.0043544985032113
+CANBK,3,Value Cyclicals,2.4348622154493214
+CHOLAFIN,3,Value Cyclicals,1.153074742011825
+CIPLA,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),0.6903823957304086
+COALINDIA,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),2.042253314262566
+DABUR,1,Defensive / Steady Compounders,1.2655879211633836
+DIVISLAB,1,Defensive / Steady Compounders,0.8033087119607858
+DLF,1,Defensive / Steady Compounders,2.4206850203298944
+DMART,0,Emerging Growth,0.9666829988860862
+DRREDDY,0,Emerging Growth,1.4326956122218717
+EICHERMOT,1,Defensive / Steady Compounders,0.9401070334360696
+GAIL,1,Defensive / Steady Compounders,0.655112193446947
+GODREJCP,1,Defensive / Steady Compounders,1.3252992081565098
+GRASIM,1,Defensive / Steady Compounders,1.2128129641263194
+HAL,1,Defensive / Steady Compounders,1.1163479837411692
+HAVELLS,0,Emerging Growth,1.0427172140098524
+HCLTECH,1,Defensive / Steady Compounders,0.7795887341171758
+HDFCBANK,3,Value Cyclicals,0.692363168307923
+HDFCLIFE,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),1.5801382127759995
+HEROMOTOCO,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),1.7113538766854948
+HINDALCO,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),0.707279385699643
+HINDUNILVR,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),0.7196830212505938
+ICICIBANK,3,Value Cyclicals,0.6818897405745983
+ICICIGI,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),0.9754730443304421
+ICICIPRULI,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),3.2061330746688537
+INDIGO,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),2.893519639195234
+INDUSINDBK,3,Value Cyclicals,0.890068761215871
+INFY,1,Defensive / Steady Compounders,1.1042412452527277
+IOC,1,Defensive / Steady Compounders,0.6297378954663347
+IRCTC,1,Defensive / Steady Compounders,1.9822452827617858
+IRFC,3,Value Cyclicals,1.6691497837135163
+ITC,1,Defensive / Steady Compounders,0.9395659969348865
+JINDALSTEL,1,Defensive / Steady Compounders,1.0210831549928776
+JIOFIN,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),1.4108567169572157
+JSWENERGY,1,Defensive / Steady Compounders,1.2522439530613592
+JSWSTEEL,0,Emerging Growth,0.9270441263239033
+KOTAKBANK,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),1.5319352190825555
+LICI,0,Emerging Growth,3.1730170112697267
+LODHA,1,Defensive / Steady Compounders,2.118600598902816
+LT,4,High-Quality Compounders,1.1121272049910709
+LTIM,0,Emerging Growth,2.0736980407453163
+M&M,1,Defensive / Steady Compounders,0.6299524696058205
+MARUTI,1,Defensive / Steady Compounders,0.5234967454525761
+MOTHERSON,1,Defensive / Steady Compounders,0.9815002657797044
+NAUKRI,0,Emerging Growth,1.4105805087707604
+NESTLEIND,4,High-Quality Compounders,3.080507850960934
+NHPC,1,Defensive / Steady Compounders,2.180788604188708
+NTPC,1,Defensive / Steady Compounders,0.740549039045113
+ONGC,1,Defensive / Steady Compounders,0.3143823818287476
+PFC,3,Value Cyclicals,1.36857110865099
+PIDILITIND,1,Defensive / Steady Compounders,0.6584099033787042
+PNB,4,High-Quality Compounders,1.8908797516560738
+POWERGRID,2,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),1.7499619283262613
+RECLTD,3,Value Cyclicals,1.9490301511399417
+RELIANCE,1,Defensive / Steady Compounders,0.48869387596306035
+SBILIFE,0,Emerging Growth,1.1429956835262354
+SBIN,0,Emerging Growth,1.8396712051278339
+SHREECEM,1,Defensive / Steady Compounders,0.7007336594815544
+SHRIRAMFIN,0,Emerging Growth,1.0741632243412145
+SIEMENS,1,Defensive / Steady Compounders,1.8413765780276714
+SUNPHARMA,1,Defensive / Steady Compounders,1.3644529918742652
+TATACONSUM,0,Emerging Growth,1.7898979051992865
+TATAMOTORS,1,Defensive / Steady Compounders,1.3277850830730888
+TATAPOWER,0,Emerging Growth,0.585438154027963
+TATASTEEL,1,Defensive / Steady Compounders,1.4138876339394832
+TCS,4,High-Quality Compounders,1.242277543281526
+TECHM,1,Defensive / Steady Compounders,0.6661031225157221
+TITAN,0,Emerging Growth,1.8785286083534714
+TORNTPHARM,1,Defensive / Steady Compounders,0.6169840519945906
+TRENT,0,Emerging Growth,2.710139214874199
+TVSMOTOR,0,Emerging Growth,1.3300510498716513
