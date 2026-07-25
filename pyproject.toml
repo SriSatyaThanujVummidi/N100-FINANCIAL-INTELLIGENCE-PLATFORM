@@ -1,0 +1,6 @@
+[tool.ruff.lint.per-file-ignores]
+# Streamlit pages and diagnostic scripts deliberately do sys.path.insert() before importing
+# src.* modules, so the import can resolve when the script isn't run via `python -m`.
+# This is an intentional, documented pattern (PROGRESS.md Sprint 4 Day 22), not an oversight.
+"src/dashboard/**.py" = ["E402"]
+"src/**/day*_*.py" = ["E402"]
