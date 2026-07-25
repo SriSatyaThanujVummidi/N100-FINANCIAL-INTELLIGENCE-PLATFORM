@@ -1,0 +1,12 @@
+company_id,metric,value,z_score,sector,sector_mean,sector_std
+HEROMOTOCO,Return on Capital Employed %,173.7066375307293,3.27,Consumer Discretionary,31.24,43.6
+INDIGO,Asset Turnover,56.38625204582652,3.47,Consumer Discretionary,5.16,14.75
+TATAMOTORS,Free Cash Flow (Cr),45133.0,3.23,Consumer Discretionary,4444.14,12601.4
+ADANIGREEN,Debt to Equity,6.595281675818589,3.14,Energy,1.46,1.63
+BAJAJHLDNG,Net Profit Margin %,432.7262044653349,4.5,Financials,38.24,87.71
+PNB,Return on Equity %,61.320565191187306,3.25,Financials,19.01,13.02
+ICICIGI,Return on Capital Employed %,145.22875816993462,4.0,Financials,13.67,32.93
+PNB,Return on Assets %,12.652858189053626,3.16,Financials,2.73,3.15
+BAJAJHLDNG,Interest Coverage,3764.5,3.59,Financials,349.41,951.61
+PNB,Asset Turnover,1.5070262950629396,4.23,Financials,0.2,0.31
+BAJAJHLDNG,Earnings Per Share,653.0,4.26,Financials,80.3,134.43

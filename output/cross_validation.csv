@@ -1,0 +1,53 @@
+company_id,metric_type,period_years,parsed_value_pct,computed_value_pct,diff_pct,flag,note
+HDFCBANK,compounded_sales_growth,10,21.0,20.887964823195592,0.54,OK,on-the-fly 10yr CAGR from profitandloss.sales
+HDFCBANK,compounded_profit_growth,10,22.0,22.263903320427715,1.19,OK,on-the-fly 10yr CAGR from profitandloss.net_profit
+HDFCBANK,stock_price_cagr,10,15.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+HDFCBANK,roe,10,17.0,15.880100230197021,7.05,DIVERGENCE_FLAGGED,"avg return_on_equity_pct, trailing 10yr"
+HDFCBANK,compounded_sales_growth,5,22.0,21.95098428169122,0.22,OK,from financial_ratios.revenue_cagr_5yr
+HDFCBANK,compounded_profit_growth,5,23.0,23.865063572879073,3.62,OK,from financial_ratios.pat_cagr_5yr
+HDFCBANK,stock_price_cagr,5,8.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+HDFCBANK,roe,5,17.0,15.274152137815426,11.3,DIVERGENCE_FLAGGED,"avg return_on_equity_pct, trailing 5yr"
+HDFCBANK,compounded_sales_growth,3,30.0,30.186956140948773,0.62,OK,on-the-fly 3yr CAGR from profitandloss.sales
+HDFCBANK,compounded_profit_growth,3,26.0,27.12356908487252,4.14,OK,on-the-fly 3yr CAGR from profitandloss.net_profit
+HDFCBANK,stock_price_cagr,3,8.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+HDFCBANK,roe,3,17.0,15.23647165813209,11.57,DIVERGENCE_FLAGGED,"avg return_on_equity_pct, trailing 3yr"
+HDFCBANK,stock_price_cagr,1,13.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+INFY,compounded_sales_growth,10,12.0,11.852717458931128,1.24,OK,on-the-fly 10yr CAGR from profitandloss.sales
+INFY,compounded_profit_growth,10,9.0,9.433477603192465,4.6,OK,on-the-fly 10yr CAGR from profitandloss.net_profit
+INFY,stock_price_cagr,10,15.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+INFY,roe,10,27.0,25.746541384266283,4.87,OK,"avg return_on_equity_pct, trailing 10yr"
+INFY,compounded_sales_growth,5,13.0,13.199100930556229,1.51,OK,from financial_ratios.revenue_cagr_5yr
+INFY,compounded_profit_growth,5,11.0,11.239419983657939,2.13,OK,from financial_ratios.pat_cagr_5yr
+INFY,stock_price_cagr,5,22.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+INFY,roe,5,29.0,28.402181315685,2.1,OK,"avg return_on_equity_pct, trailing 5yr"
+INFY,compounded_sales_growth,3,5.0,15.216500798806365,67.14,DIVERGENCE_FLAGGED,on-the-fly 3yr CAGR from profitandloss.sales
+INFY,compounded_profit_growth,3,10.0,10.558796476740762,5.29,DIVERGENCE_FLAGGED,on-the-fly 3yr CAGR from profitandloss.net_profit
+INFY,stock_price_cagr,3,4.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+INFY,roe,3,31.0,30.38311872306937,2.03,OK,"avg return_on_equity_pct, trailing 3yr"
+INFY,stock_price_cagr,1,27.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+SBILIFE,compounded_sales_growth,10,23.0,22.56159335451695,1.94,OK,on-the-fly 10yr CAGR from profitandloss.sales
+SBILIFE,compounded_profit_growth,10,9.0,10.03348279743188,10.3,DIVERGENCE_FLAGGED,on-the-fly 10yr CAGR from profitandloss.net_profit
+SBILIFE,stock_price_cagr,10,9.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+SBILIFE,roe,10,16.0,15.94065675044412,0.37,OK,"avg return_on_equity_pct, trailing 10yr"
+SBILIFE,compounded_sales_growth,5,24.0,24.231614182367544,0.96,OK,from financial_ratios.revenue_cagr_5yr
+SBILIFE,compounded_profit_growth,5,6.0,7.374662152227485,18.64,DIVERGENCE_FLAGGED,from financial_ratios.pat_cagr_5yr
+SBILIFE,stock_price_cagr,5,8.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+SBILIFE,roe,5,14.0,13.829473545412554,1.23,OK,"avg return_on_equity_pct, trailing 5yr"
+SBILIFE,compounded_sales_growth,3,17.0,17.235877577119997,1.37,OK,on-the-fly 3yr CAGR from profitandloss.sales
+SBILIFE,compounded_profit_growth,3,9.0,9.162347526806492,1.77,OK,on-the-fly 3yr CAGR from profitandloss.net_profit
+SBILIFE,stock_price_cagr,3,7.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+SBILIFE,roe,3,13.0,12.960975867845127,0.3,OK,"avg return_on_equity_pct, trailing 3yr"
+SBILIFE,stock_price_cagr,1,-2.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+TCS,compounded_sales_growth,10,11.0,11.404391189817975,3.55,OK,on-the-fly 10yr CAGR from profitandloss.sales
+TCS,compounded_profit_growth,10,9.0,9.07908137484088,0.87,OK,on-the-fly 10yr CAGR from profitandloss.net_profit
+TCS,stock_price_cagr,10,14.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+TCS,roe,10,40.0,38.722362838878176,3.3,OK,"avg return_on_equity_pct, trailing 10yr"
+TCS,compounded_sales_growth,5,10.0,10.463614801716602,4.43,OK,from financial_ratios.revenue_cagr_5yr
+TCS,compounded_profit_growth,5,8.0,7.871172131953608,1.64,OK,from financial_ratios.pat_cagr_5yr
+TCS,stock_price_cagr,5,16.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+TCS,roe,5,44.0,43.42072848499699,1.33,OK,"avg return_on_equity_pct, trailing 5yr"
+TCS,compounded_sales_growth,3,14.0,13.632864555506409,2.69,OK,on-the-fly 3yr CAGR from profitandloss.sales
+TCS,compounded_profit_growth,3,12.0,12.286310199806593,2.33,OK,on-the-fly 3yr CAGR from profitandloss.net_profit
+TCS,stock_price_cagr,3,8.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet
+TCS,roe,3,47.0,46.95366826601182,0.1,OK,"avg return_on_equity_pct, trailing 3yr"
+TCS,stock_price_cagr,1,16.0,,,SKIPPED_NO_COMPUTED_VALUE,no computed equivalent built in this project yet

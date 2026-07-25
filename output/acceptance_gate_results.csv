@@ -1,0 +1,21 @@
+gate,description,status,detail
+AC-01,COUNT(*) FROM companies = 92,PASS,Actual: 92
+AC-02,">=90% of companies have >=10yr P&L, BS, CF records",PASS,"Actual: 84/92 = 91.3%. Known shortfall drivers (PROGRESS.md): SBIN (0 BS rows), HAL (BS starts 2016 vs P&L 2013), JIOFIN (2yr), LICI (6yr), ATGL (7yr)."
+AC-03,PRAGMA foreign_key_check returns 0 rows,PASS,Actual: 0 violation rows
+AC-04,"financial_ratios >= 1,100 rows",FAIL,"Actual: 1073. Documented shortfall (PROGRESS.md Sprint 2 Day 14): JIOFIN (2yr), LICI (6yr), ATGL (7yr) short-history companies account for the gap -- explained deviation, not a defect."
+AC-05,Revenue CAGR spot-check within 0.1% of manual calc (TCS),PASS,"Manual: 10.4636%, DB: 10.4636% (diff 0.0000pp)"
+AC-06,ROE matches companies.roe_percentage within 5% (5 companies),FAIL,"4/5 within 5%. Detail: TCS: source=0.52%, computed=50.94%, MISMATCH; INFY: source=31.80%, computed=29.79%, OK; RELIANCE: source=9.25%, computed=9.96%, OK; HDFCBANK: source=17.10%, computed=14.34%, OK; ITC: source=29.47%, computed=27.85%, OK. Documented (spec Section 5.1, PROGRESS.md Day 8): companies.xlsx's roe_percentage field is independently known unreliable (e.g. TCS shows 0.52% there vs a real ~51% computed) -- this gate tests spec's own documented anomaly, a FAIL here is expected and does not indicate a computation bug."
+AC-07,Quality preset screener returns 10-50 companies,PASS,"Actual: 35 (ROE>15, D/E<1, FCF>0, sanity-masked)"
+AC-08,Company Profile screen loads in <3s,PASS (via Day 43 measurement),"Day 43 load test: 5 tickers (TCS, RELIANCE, SBIN, HDFCBANK, HAL) all loaded in 0.4-1.3ms, ~2,000x under the 3s target. Not re-measured today; see output/perf_notes.md."
+AC-09,Screener CSV download is valid and well-formed,PASS,"Proxy check: exported 92 rows via the same export logic pattern the dashboard's screener CSV button uses, re-parsed successfully with correct headers. Not a literal browser-button click test."
+AC-10,No text overflow in 5 sampled tearsheet PDFs,MANUAL (already visually confirmed),"Day 33 (TCS, HDFCBANK visual review) and Day 34 post-batch spot-check (INFY, MARUTI, SUNPHARMA, SBIN, HAL) all confirmed clean rendering, no overflow, no blank pages. Not re-reviewed today -- recommend a final visual glance at 5 PDFs in reports/tearsheets/ before signing."
+AC-11,GET /api/v1/health returns HTTP 200,PASS,Actual status: 200
+AC-12,TCS /ratios endpoint returns data for 10+ years,PASS,Actual: 12 years returned
+AC-13,API screener results match screener_output.xlsx,PASS,"API: 21 companies, Excel (quality_compounder): 21 companies. Exact match."
+AC-14,peer_percentiles has data for all 11 peer groups,PASS,Actual: 11 distinct groups
+AC-15,All 92 companies have a cluster_id assigned,PASS,"Actual: 92 rows, 92 with a non-null cluster_id"
+AC-16,All 92 companies have >=1 pro and >=1 con,PASS,"Actual: 92 companies present, 0 missing pro or con: []"
+AC-17,"92 tearsheet PDFs exist, each >=30KB",FAIL,"Actual: 91 PDFs (JIOFIN deliberately skipped Day 34 -- 2yr history, below 3yr minimum for a meaningful trend chart -- so 91 is the correct, explained count, not 92). 0 undersized: []"
+AC-18,"pytest shows 60+ tests collected, 0 failures",PASS (via Day 44 run),"Day 44's full-suite run: 274 passed, 0 failures, 6 known collection errors (import-path quirk in pre-existing files, not test failures -- see PROGRESS.md Day 42). Comfortably clears the 60-test threshold. Not re-run in this script; see reports/pytest_report.html."
+AC-19,validation_failures.csv exists with required columns,PASS,"Actual columns: ['company_id', 'field', 'issue', 'rule_id', 'severity', 'table', 'year']. Required: ['company_id', 'field', 'issue', 'severity']"
+AC-20,analyst_guide.pdf is at least 10 pages,PASS,Actual: 10 pages

@@ -1,0 +1,186 @@
+2026-06-30 11:18:41,518 WARNING ROCE cross-check anomaly company_id=ABB year=2024-03 computed=36.541512427287145 source=46.0 diff=9.458487572712855 category=version difference
+2026-06-30 11:18:41,519 WARNING ROE cross-check anomaly company_id=ADANIENT year=2024-03 computed=8.534650424813185 source=13.64 diff=5.105349575186816 category=version difference
+2026-06-30 11:18:41,519 WARNING ROCE cross-check anomaly company_id=ADANIGREEN year=2024-03 computed=7.249772398650458 source=96.5 diff=89.25022760134954 category=formula discrepancy
+2026-06-30 11:18:41,519 WARNING ROE cross-check anomaly company_id=ADANIPOWER year=2024-03 computed=48.27674122146251 source=57.1 diff=8.823258778537493 category=version difference
+2026-06-30 11:18:41,519 WARNING ROCE cross-check anomaly company_id=ADANIPOWER year=2024-03 computed=18.385823227581948 source=32.2 diff=13.814176772418055 category=version difference
+2026-06-30 11:18:41,519 WARNING ROCE cross-check anomaly company_id=ASIANPAINT year=2024-03 computed=31.75172153570418 source=41.75 diff=9.998278464295819 category=version difference
+2026-06-30 11:18:41,520 WARNING ROCE cross-check anomaly company_id=BAJAJ-AUTO year=2024-03 computed=27.207358942799765 source=33.5 diff=6.292641057200235 category=version difference
+2026-06-30 11:18:41,520 WARNING ROE cross-check anomaly company_id=BAJAJFINSV year=2024-03 computed=25.850351412279537 source=11.72 diff=14.130351412279536 category=version difference
+2026-06-30 11:18:41,520 WARNING ROCE cross-check anomaly company_id=BAJAJFINSV year=2024-03 computed=11.44874463510097 source=21.14 diff=9.69125536489903 category=version difference
+2026-06-30 11:18:41,520 WARNING ROCE cross-check anomaly company_id=BAJAJHLDNG year=2024-03 computed=2.8134781808138465 source=13.1 diff=10.286521819186152 category=version difference
+2026-06-30 11:18:41,520 WARNING ROCE cross-check anomaly company_id=BAJFINANCE year=2024-03 computed=4.166013587646808 source=11.9 diff=7.733986412353192 category=version difference
+2026-06-30 11:18:41,520 WARNING ROE cross-check anomaly company_id=BEL year=2024-03 computed=4744.047619047619 source=26.3 diff=4717.747619047619 category=data source issue
+2026-06-30 11:18:41,520 WARNING ROCE cross-check anomaly company_id=BEL year=2024-03 computed=3628.3464566929133 source=34.6 diff=3593.7464566929134 category=data source issue
+2026-06-30 11:18:41,521 WARNING ROCE cross-check anomaly company_id=BOSCHLTD year=2024-03 computed=13.756919771957365 source=20.6 diff=6.843080228042636 category=version difference
+2026-06-30 11:18:41,521 WARNING ROE cross-check anomaly company_id=BPCL year=2024-03 computed=35.511337343822305 source=41.9 diff=6.388662656177694 category=version difference
+2026-06-30 11:18:41,521 WARNING ROCE cross-check anomaly company_id=CHOLAFIN year=2024-03 computed=3.3666952254848512 source=10.4 diff=7.033304774515149 category=version difference
+2026-06-30 11:18:41,521 WARNING ROCE cross-check anomaly company_id=CIPLA year=2024-03 computed=67.603154227031 source=22.8 diff=44.803154227031 category=formula discrepancy
+2026-06-30 11:18:41,521 WARNING ROE cross-check anomaly company_id=COALINDIA year=2024-03 computed=45.16982956605826 source=52.0 diff=6.830170433941738 category=version difference
+2026-06-30 11:18:41,521 WARNING ROCE cross-check anomaly company_id=COALINDIA year=2024-03 computed=98.16700839187479 source=63.6 diff=34.567008391874786 category=formula discrepancy
+2026-06-30 11:18:41,521 WARNING ROCE cross-check anomaly company_id=DRREDDY year=2024-03 computed=21.361052353252248 source=26.5 diff=5.138947646747752 category=version difference
+2026-06-30 11:18:41,521 WARNING ROCE cross-check anomaly company_id=EICHERMOT year=2024-03 computed=20.206889081455806 source=31.1 diff=10.893110918544195 category=version difference
+2026-06-30 11:18:41,522 WARNING ROE cross-check anomaly company_id=GODREJCP year=2024-03 computed=-4.45308779171297 source=6.77 diff=11.22308779171297 category=formula discrepancy
+2026-06-30 11:18:41,522 WARNING ROCE cross-check anomaly company_id=GODREJCP year=2024-03 computed=17.168141592920357 source=26.49 diff=9.321858407079642 category=version difference
+2026-06-30 11:18:41,522 WARNING ROE cross-check anomaly company_id=HAL year=2024-03 computed=3816.5829145728644 source=28.9 diff=3787.6829145728643 category=data source issue
+2026-06-30 11:18:41,522 WARNING ROCE cross-check anomaly company_id=HAL year=2024-03 computed=2590.993788819876 source=38.9 diff=2552.093788819876 category=data source issue
+2026-06-30 11:18:41,522 WARNING ROCE cross-check anomaly company_id=HDFCLIFE year=2024-03 computed=645.952868852459 source=6.61 diff=639.342868852459 category=data source issue
+2026-06-30 11:18:41,522 WARNING ROCE cross-check anomaly company_id=HEROMOTOCO year=2024-03 computed=173.7066375307293 source=29.1 diff=144.6066375307293 category=formula discrepancy
+2026-06-30 11:18:41,522 WARNING ROCE cross-check anomaly company_id=HINDALCO year=2024-03 computed=113.57952517507476 source=11.3 diff=102.27952517507477 category=data source issue
+2026-06-30 11:18:41,522 WARNING ROCE cross-check anomaly company_id=HINDUNILVR year=2024-03 computed=87.32306174338734 source=27.2 diff=60.12306174338734 category=formula discrepancy
+2026-06-30 11:18:41,523 WARNING ROCE cross-check anomaly company_id=ICICIGI year=2024-03 computed=145.22875816993462 source=22.5 diff=122.72875816993462 category=formula discrepancy
+2026-06-30 11:18:41,523 WARNING ROCE cross-check anomaly company_id=ICICIPRULI year=2024-03 computed=753.9778779188856 source=8.75 diff=745.2278779188856 category=data source issue
+2026-06-30 11:18:41,523 WARNING ROE cross-check anomaly company_id=INDIGO year=2024-03 computed=892.568306010929 source=None diff=None category=data source issue
+2026-06-30 11:18:41,523 WARNING ROCE cross-check anomaly company_id=INDIGO year=2024-03 computed=4953.540772532189 source=24.5 diff=4929.040772532189 category=data source issue
+2026-06-30 11:18:41,523 WARNING ROCE cross-check anomaly company_id=INFY year=2024-03 computed=32.906970717802544 source=40.0 diff=7.093029282197456 category=version difference
+2026-06-30 11:18:41,523 WARNING ROE cross-check anomaly company_id=IRCTC year=2024-03 computed=34.39628482972136 source=40.4 diff=6.003715170278639 category=version difference
+2026-06-30 11:18:41,523 WARNING ROCE cross-check anomaly company_id=IRCTC year=2024-03 computed=42.82674772036474 source=53.8 diff=10.973252279635254 category=version difference
+2026-06-30 11:18:41,524 WARNING ROE cross-check anomaly company_id=LICI year=2024-03 computed=49.44710986501021 source=63.61 diff=14.162890134989787 category=version difference
+2026-06-30 11:18:41,524 WARNING ROCE cross-check anomaly company_id=LICI year=2024-03 computed=39.05035832114759 source=63.79 diff=24.739641678852408 category=formula discrepancy
+2026-06-30 11:18:41,524 WARNING ROE cross-check anomaly company_id=LT year=2024-03 computed=77.66510140873214 source=10.49 diff=67.17510140873215 category=formula discrepancy
+2026-06-30 11:18:41,524 WARNING ROCE cross-check anomaly company_id=LT year=2024-03 computed=118.53411200144868 source=17.18 diff=101.35411200144867 category=formula discrepancy
+2026-06-30 11:18:41,524 WARNING ROCE cross-check anomaly company_id=LTIM year=2024-03 computed=25.207116664403095 source=34.1 diff=8.892883335596906 category=version difference
+2026-06-30 11:18:41,524 WARNING ROCE cross-check anomaly company_id=M&M year=2024-03 computed=11.535315751242587 source=26.98 diff=15.444684248757413 category=version difference
+2026-06-30 11:18:41,524 WARNING ROCE cross-check anomaly company_id=MARUTI year=2024-03 computed=15.59092764270305 source=23.67 diff=8.079072357296951 category=version difference
+2026-06-30 11:18:41,524 WARNING ROE cross-check anomaly company_id=NESTLEIND year=2024-03 computed=117.75449101796407 source=135.61 diff=17.855508982035943 category=version difference
+2026-06-30 11:18:41,524 WARNING ROCE cross-check anomaly company_id=NESTLEIND year=2024-03 computed=143.14789687924016 source=185.43 diff=42.28210312075984 category=formula discrepancy
+2026-06-30 11:18:41,525 WARNING ROE cross-check anomaly company_id=PFC year=2024-03 computed=26.1609340860332 source=19.49 diff=6.670934086033203 category=version difference
+2026-06-30 11:18:41,525 WARNING ROCE cross-check anomaly company_id=PFC year=2024-03 computed=3.4803988753078574 source=9.96 diff=6.479601124692143 category=version difference
+2026-06-30 11:18:41,525 WARNING ROE cross-check anomaly company_id=PNB year=2024-03 computed=61.320565191187306 source=8.7 diff=52.62056519118731 category=formula discrepancy
+2026-06-30 11:18:41,525 WARNING ROCE cross-check anomaly company_id=PNB year=2024-03 computed=None source=1.63 diff=None category=data source issue
+2026-06-30 11:18:41,525 WARNING ROCE cross-check anomaly company_id=SBILIFE year=2024-03 computed=1.140327341024953 source=13.2 diff=12.059672658975046 category=version difference
+2026-06-30 11:18:41,525 WARNING ROE cross-check anomaly company_id=SBIN year=2024-03 computed=None source=17.3 diff=None category=data source issue
+2026-06-30 11:18:41,525 WARNING ROCE cross-check anomaly company_id=SBIN year=2024-03 computed=None source=6.16 diff=None category=data source issue
+2026-06-30 11:18:41,525 WARNING ROCE cross-check anomaly company_id=SHRIRAMFIN year=2024-03 computed=4.0643421983857175 source=11.3 diff=7.235657801614283 category=version difference
+2026-06-30 11:18:41,525 WARNING ROCE cross-check anomaly company_id=SIEMENS year=2024-09 computed=17.7411102583781 source=25.6 diff=7.858889741621901 category=version difference
+2026-06-30 11:18:41,526 WARNING ROE cross-check anomaly company_id=TATAMOTORS year=2024-03 computed=37.45613415294755 source=49.4 diff=11.94386584705245 category=version difference
+2026-06-30 11:18:41,526 WARNING ROE cross-check anomaly company_id=TATASTEEL year=2024-03 computed=-5.334926929972293 source=6.55 diff=11.884926929972293 category=formula discrepancy
+2026-06-30 11:18:41,526 WARNING ROE cross-check anomaly company_id=TCS year=2024-03 computed=50.944313673485176 source=0.52 diff=50.42431367348517 category=data source issue
+2026-06-30 11:18:41,526 WARNING ROE cross-check anomaly company_id=TRENT year=2024-03 computed=36.30776794493609 source=27.2 diff=9.10776794493609 category=version difference
+2026-06-30 11:18:41,526 WARNING ROE cross-check anomaly company_id=TVSMOTOR year=2024-03 computed=26.223466981132077 source=None diff=None category=data source issue
+2026-06-30 11:18:41,526 WARNING ROCE cross-check anomaly company_id=TVSMOTOR year=2024-03 computed=13.799939005794448 source=None diff=None category=data source issue
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2013-03 metric=return_on_equity_pct value=15183.333333333334 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2013-03 metric=return_on_capital_employed_pct value=1776.6666666666665 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2013-03 metric=asset_turnover value=139.4 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2014-03 metric=return_on_equity_pct value=13600.0 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2014-03 metric=return_on_capital_employed_pct value=2767.8571428571427 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2014-03 metric=asset_turnover value=141.69565217391303 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2015-03 metric=return_on_equity_pct value=17100.0 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2015-03 metric=return_on_capital_employed_pct value=3069.6969696969695 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2015-03 metric=asset_turnover value=144.75510204081633 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,528 WARNING Sanity-bound violation company_id=BEL year=2016-03 metric=return_on_equity_pct value=11141.666666666668 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2016-03 metric=return_on_capital_employed_pct value=3245.945945945946 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2016-03 metric=asset_turnover value=141.42307692307693 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2017-03 metric=return_on_equity_pct value=10153.333333333334 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2017-03 metric=return_on_capital_employed_pct value=3590.9090909090905 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2017-03 metric=asset_turnover value=112.41558441558442 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2018-03 metric=return_on_equity_pct value=4616.129032258064 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2018-03 metric=return_on_capital_employed_pct value=2236.7088607594937 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2018-03 metric=asset_turnover value=85.95867768595042 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2019-03 metric=return_on_equity_pct value=3851.020408163265 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2019-03 metric=return_on_capital_employed_pct value=2678.125 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2019-03 metric=asset_turnover value=96.53968253968254 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2020-03 metric=return_on_equity_pct value=3318.181818181818 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2020-03 metric=return_on_capital_employed_pct value=2411.111111111111 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2020-03 metric=asset_turnover value=106.29508196721312 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2021-03 metric=return_on_equity_pct value=3559.322033898305 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2021-03 metric=return_on_capital_employed_pct value=2617.5925925925926 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2021-03 metric=asset_turnover value=92.82236842105263 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2022-03 metric=return_on_equity_pct value=3478.260869565217 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2022-03 metric=return_on_capital_employed_pct value=2317.3228346456694 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2022-03 metric=asset_turnover value=94.28220858895706 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2023-03 metric=return_on_equity_pct value=3981.333333333333 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,529 WARNING Sanity-bound violation company_id=BEL year=2023-03 metric=return_on_capital_employed_pct value=3211.4035087719303 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=BEL year=2023-03 metric=asset_turnover value=123.15277777777777 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=BEL year=2024-03 metric=return_on_equity_pct value=4744.047619047619 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=BEL year=2024-03 metric=return_on_capital_employed_pct value=3628.3464566929133 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=BEL year=2024-03 metric=asset_turnover value=125.88819875776397 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2016-03 metric=return_on_equity_pct value=1664.9999999999998 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2016-03 metric=return_on_capital_employed_pct value=1170.2898550724638 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2016-03 metric=asset_turnover value=95.2159090909091 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2017-03 metric=return_on_equity_pct value=1966.9172932330828 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2017-03 metric=return_on_capital_employed_pct value=1892.5925925925928 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2017-03 metric=asset_turnover value=105.58823529411765 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2018-03 metric=return_on_equity_pct value=1528.4615384615386 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2018-03 metric=return_on_capital_employed_pct value=1889.4736842105265 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2018-03 metric=asset_turnover value=111.56024096385542 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2019-03 metric=return_on_equity_pct value=1763.9097744360904 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2019-03 metric=return_on_capital_employed_pct value=2514.1843971631206 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2019-03 metric=asset_turnover value=114.33142857142857 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2020-03 metric=return_on_equity_pct value=2059.4202898550725 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,530 WARNING Sanity-bound violation company_id=HAL year=2020-03 metric=return_on_capital_employed_pct value=2772.8571428571427 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2020-03 metric=asset_turnover value=123.95953757225433 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2021-03 metric=return_on_equity_pct value=2249.3055555555557 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2021-03 metric=return_on_capital_employed_pct value=2789.3333333333335 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2021-03 metric=asset_turnover value=123.02150537634408 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2022-03 metric=return_on_equity_pct value=3324.183006535948 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2022-03 metric=return_on_capital_employed_pct value=2612.121212121212 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2022-03 metric=asset_turnover value=121.88118811881188 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2023-03 metric=return_on_equity_pct value=3283.050847457627 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2023-03 metric=return_on_capital_employed_pct value=2180.8035714285716 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2023-03 metric=asset_turnover value=99.36531365313652 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2024-03 metric=return_on_equity_pct value=3816.5829145728644 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2024-03 metric=return_on_capital_employed_pct value=2590.993788819876 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HAL year=2024-03 metric=asset_turnover value=67.51333333333334 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2013-03 metric=return_on_capital_employed_pct value=1009.7232610321615 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2014-03 metric=return_on_capital_employed_pct value=856.8464730290456 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2015-03 metric=return_on_capital_employed_pct value=1034.9468713105077 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2016-03 metric=return_on_capital_employed_pct value=552.4331292297776 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2017-03 metric=return_on_capital_employed_pct value=774.5164662833246 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2018-03 metric=return_on_capital_employed_pct value=661.8916046758767 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2019-03 metric=return_on_capital_employed_pct value=666.3417227933356 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2021-03 metric=return_on_capital_employed_pct value=760.2056277056276 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,531 WARNING Sanity-bound violation company_id=HDFCLIFE year=2023-03 metric=return_on_capital_employed_pct value=502.4098113748835 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=HDFCLIFE year=2024-03 metric=return_on_capital_employed_pct value=645.952868852459 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=HINDUNILVR year=2013-03 metric=return_on_capital_employed_pct value=779.6885813148789 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=HINDUNILVR year=2014-03 metric=return_on_capital_employed_pct value=674.8255651688529 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=HINDUNILVR year=2015-03 metric=return_on_capital_employed_pct value=644.6683046683047 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=ICICIPRULI year=2015-03 metric=return_on_capital_employed_pct value=622.1842355175688 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=ICICIPRULI year=2017-03 metric=return_on_capital_employed_pct value=561.2238526381518 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=ICICIPRULI year=2018-03 metric=return_on_capital_employed_pct value=563.0970489808336 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=ICICIPRULI year=2019-03 metric=return_on_capital_employed_pct value=594.7460340561781 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=ICICIPRULI year=2021-03 metric=return_on_capital_employed_pct value=810.0882723833543 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=ICICIPRULI year=2022-03 metric=return_on_capital_employed_pct value=633.9158138636802 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=ICICIPRULI year=2024-03 metric=return_on_capital_employed_pct value=753.9778779188856 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2013-03 metric=return_on_equity_pct value=17886.363636363636 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2013-03 metric=return_on_capital_employed_pct value=53649.35064935065 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2013-03 metric=asset_turnover value=353.96153846153845 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2014-03 metric=return_on_equity_pct value=10772.727272727272 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2014-03 metric=return_on_capital_employed_pct value=56836.956521739135 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2014-03 metric=asset_turnover value=317.62857142857143 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2015-03 metric=return_on_equity_pct value=4939.39393939394 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2015-03 metric=return_on_capital_employed_pct value=38552.63157894737 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2015-03 metric=asset_turnover value=228.27868852459017 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2016-03 metric=return_on_equity_pct value=1534.775888717156 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,532 WARNING Sanity-bound violation company_id=INDIGO year=2016-03 metric=return_on_capital_employed_pct value=9076.419213973799 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2016-03 metric=asset_turnover value=82.34693877551021 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2017-03 metric=return_on_equity_pct value=1692.8571428571427 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2017-03 metric=return_on_capital_employed_pct value=10603.333333333334 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2017-03 metric=asset_turnover value=75.52845528455285 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2018-03 metric=return_on_equity_pct value=2242.0 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2018-03 metric=return_on_capital_employed_pct value=12697.402597402597 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2018-03 metric=asset_turnover value=82.51254480286738 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2019-03 metric=return_on_capital_employed_pct value=12851.612903225809 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2019-03 metric=asset_turnover value=76.39946380697052 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2020-03 metric=return_on_capital_employed_pct value=10910.629921259842 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2020-03 metric=asset_turnover value=84.72985781990522 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2021-03 metric=return_on_equity_pct value=-1094.148936170213 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2021-03 metric=return_on_capital_employed_pct value=1734.5549738219895 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2022-03 metric=return_on_capital_employed_pct value=3067.2205438066467 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2022-03 metric=asset_turnover value=28.18586956521739 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2023-03 metric=return_on_capital_employed_pct value=5427.7566539923955 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2023-03 metric=asset_turnover value=51.26741996233522 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2024-03 metric=return_on_equity_pct value=892.568306010929 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2024-03 metric=return_on_capital_employed_pct value=4953.540772532189 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,533 WARNING Sanity-bound violation company_id=INDIGO year=2024-03 metric=asset_turnover value=56.38625204582652 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2013-03 metric=return_on_capital_employed_pct value=620.2797202797202 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2013-03 metric=asset_turnover value=31.969931271477662 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2014-03 metric=return_on_capital_employed_pct value=734.8837209302326 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2014-03 metric=asset_turnover value=31.903225806451612 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2015-03 metric=return_on_capital_employed_pct value=582.0409982174688 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2015-03 metric=asset_turnover value=30.869375419744795 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2016-03 metric=return_on_capital_employed_pct value=628.394495412844 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2016-03 metric=asset_turnover value=32.23525661459993 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2017-03 metric=asset_turnover value=24.748019017432647 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2018-03 metric=asset_turnover value=22.42514521266629 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=LT year=2019-03 metric=asset_turnover value=20.29111644657863 (likely balance-sheet data anomaly, e.g. unit-conversion error)
+2026-06-30 11:18:41,534 WARNING Sanity-bound violation company_id=PNB year=2013-03 metric=return_on_equity_pct value=812.2977346278317 (likely balance-sheet data anomaly, e.g. unit-conversion error)

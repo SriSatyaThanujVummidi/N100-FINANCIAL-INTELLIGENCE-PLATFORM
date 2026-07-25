@@ -1,0 +1,6 @@
+cluster_id,return_on_equity_pct_mean,return_on_equity_pct_median,debt_to_equity_mean,debt_to_equity_median,revenue_cagr_5yr_mean,revenue_cagr_5yr_median,fcf_cagr_5yr_mean,fcf_cagr_5yr_median,operating_profit_margin_pct_mean,operating_profit_margin_pct_median,cluster_name,n_companies
+0,19.3,16.4,1.38,0.43,18.78,17.48,-4.25,-5.51,16.06,16.01,Emerging Growth,18
+1,16.67,15.75,0.47,0.28,8.44,8.71,15.75,11.57,21.3,20.76,Defensive / Steady Compounders,41
+2,16.01,15.35,0.66,0.06,14.01,13.17,13.11,10.03,81.03,84.04,Asset-Light Quality (does not fit spec's 5 example archetypes -- flag for team lead),15
+3,17.55,16.27,8.08,6.87,18.87,17.83,-5.61,-7.36,54.82,40.15,Value Cyclicals,12
+4,68.35,57.73,0.88,0.31,12.67,12.51,22.47,20.74,26.54,25.26,High-Quality Compounders,6
