@@ -103,9 +103,6 @@ nifty100_project/
 |                            portfolio/, elbow_plot.png, correlation_heatmap.png, pytest_report.html
 |-- docs/                   analyst_guide.pdf, acceptance_checklist.pdf, openapi.json, PROGRESS.md
 |-- notebooks/               exploratory_queries.sql
-|-- verify_deliverables.py   Independent checker — confirms all 23 deliverables exist on disk
-|-- project_structure_simple.py  Recursive folder/file lister (used to audit this README/PROGRESS.md)
-|-- cleanup_and_audit.py    One-time cleanup tool used to archive diagnostics / remove junk files
 `-- README.md                (this file)
 ```
 
